@@ -29,4 +29,4 @@ However, in the current day it is important to be able to implement your Data Sc
 
 3. Finally, I utilized AWS Redshift to query my data. Then, I connected PowerBI to my AWS Redshift Server and recreated the same PowerBI dashboard.
 
-<img src="./Images/Redshift.PNG" width="800" height ="400">   
+<img src="./Images/Redshift.PNG">   
