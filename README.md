@@ -4,7 +4,6 @@
 
 The goal of the project is to take Hotel Data across several excel worksheets and create an interactive dashboard that our end user can access.
 
-![HomepageUI](./Images/PowerBI.PNG =250x250)
-<img src="./Images/PowerBI.PNG" width="48">
+<img src="./Images/PowerBI.PNG" width="250" height ="250">
 
 ### Building a Database
