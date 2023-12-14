@@ -18,22 +18,22 @@ However, in the current day it is important to be able to implement your Data Sc
 
 ##### Steps
 
-###### Uploading Table Data to AWS S3
+###### 1. Uploading Table Data to AWS S3
 
 <img src="./Images/S3.PNG" width="800" height ="400">
 
-###### Build Database with AWS Glue
+###### 2. Build Database with AWS Glue
 
 <img src="./Images/Glue.PNG">
 
-###### Copy S3 Data in Glue Database with AWS Glue Crawler
+###### 3. Copy S3 Data in Glue Database with AWS Glue Crawler
 
 <img src="./Images/Crawler.PNG">
 
-##### Query from Glue Database via AWS Redshift
+##### 4. Query from Glue Database via AWS Redshift
 
 <img src="./Images/Redshift.PNG">   
 
-##### Connect AWS Redshift Server to PowerBI to Rebuild Dashboard
+##### 5. Connect AWS Redshift Server to PowerBI to Rebuild Dashboard
 
 <img src="./Images/PowerBI.PNG" width="1000" height ="500">
