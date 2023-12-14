@@ -2,7 +2,7 @@
 
 ### Introduction to Data
 
-The goal of the project is to take the Hotel Data across several excel worksheets and create an interactive dashboard that our end user can access.
+The goal of the project is to take Hotel Data across several excel worksheets and create an interactive dashboard that our end user can access.
 
 ![HomepageUI](./Images/PowerBI.PNG)
 
